@@ -729,3 +729,17 @@ function add_theme_menus() {
 }
  
 add_theme_menus();
+
+
+function charis_widgets_init() {
+    register_sidebar( array(
+        'name'          => __( 'Career Right Sidebarr', 'charis_internationale' ),
+        'id'            => 'career-right',
+        'description'   => __( 'Widgets in this area will be shown on all careers posts.', 'charis_internationale' ),
+        'before_widget' => '<li id="%1$s" class="widget %2$s">',
+        'after_widget'  => '</li>',
+        'before_title'  => '<h2 class="widgettitle">',
+        'after_title'   => '</h2>',
+    ) );
+}
+add_action( 'widgets_init', 'charis_widgets_init' );
