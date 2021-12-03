@@ -71,7 +71,42 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 
+Twenty Twenty-One is derived from Seedlet, (C) 2020 Automattic, Inc.
 
+Twenty Twenty-One is also based on:
+
+Twenty Nineteen. 2018-2021 WordPress.org
+Twenty Nineteen is distributed under the terms of the GNU GPL v2 or later.
+
+Twenty Seventeen. Copyright (C) 2016-2021 WordPress.org
+Twenty Seventeen is distributed under the terms of the GNU GPL v2 or later.
+
+Twenty Sixteen. Copyright (C) 2015-2021 WordPress.org
+Twenty Sixteen is distributed under the terms of the GNU GPL v2 or later.
+
+Twenty Twenty. Copyright (C) 2020-2021 WordPress.org
+Twenty Twenty is distributed under the terms of the GNU GPL v2 or later.
+
+Underscores https://underscores.me/, Copyright (C) 2012-2021 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+
+Unless otherwise noted, the icons in this theme are derived from the WordPress
+Icons Library, licensed under the terms of the GNU GPL v2 or later.
+https://github.com/WordPress/gutenberg/tree/master/packages/icons
+
+This theme bundles the following third-party resources:
+
+input[type='checkbox'], input[type='radio'], input[type='ranged'],
+https://css-tricks.com/custom-styling-form-inputs-with-modern-css-features/
+https://css-tricks.com/styling-cross-browser-compatible-range-inputs-css/
+https://codepen.io/aaroniker/pen/ZEYoxEY Copyright (c) 2020 Aaron Iker
+https://codepen.io/chriscoyier/pen/FtnAa Copyright (c) 2020 Chris Coyier
+License: MIT.
+
+Images
 Art by Berthe Morisot 1841-1895. Public domain.
 https://www.wikiart.org/en/berthe-morisot/playing-in-the-sand
 https://www.wikiart.org/en/berthe-morisot/roses-tremieres-hollyhocks-1884
